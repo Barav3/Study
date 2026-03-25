@@ -543,4 +543,4 @@ function MapMode({ back, T }) {
     </div>
   );
 }
-export default App;
+
